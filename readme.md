@@ -6,7 +6,7 @@ This repository is the implementation of WWW 2025 paper: Rethinking and Accelera
 CGC improves the class-to-class matching paradigm of existing graph condensation methods to the novel **class-to-node matching paradigm**, therefore achieving an exceedingly efficient condensation process with advanced accuracy.
 
 <p align="center">
-<img src="fig.png" alt="GC" width="550">
+<img src="fig.png" alt="GC" width="500">
 </p>
 
 For more works about graph condensation, please refer to our survey paper 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) and paper list [Graph Condensation Papers](https://github.com/XYGaoG/Graph-Condensation-Papers).
