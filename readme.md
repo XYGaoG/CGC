@@ -9,7 +9,7 @@ CGC improves the class-to-class matching paradigm of existing graph condensation
 <img src="fig.png" alt="GC" width="500">
 </p>
 
-For more works about graph condensation, please refer to our survey paper 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) and paper list [Graph Condensation Papers](https://github.com/XYGaoG/Graph-Condensation-Papers).
+For more works about graph condensation, please refer to our TKDE'25 survey paper 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) and paper list [Graph Condensation Papers](https://github.com/XYGaoG/Graph-Condensation-Papers).
 
 
 ## Requirements
